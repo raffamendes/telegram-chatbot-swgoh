@@ -1,4 +1,4 @@
-package com.example;
+package com.rmendes.swgohbot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

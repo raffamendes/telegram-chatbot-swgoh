@@ -1,6 +1,7 @@
-# telegram-quickstart
-A quickstart to create a telegram Bot based on Apache Camel.
+# Telegram Chatbot from Star Wars Galaxy of Heroes
 
-The quickstart can work without any modification to the code if you just put your Telegram authorization token into the [application.properties](/src/main/resources/application.properties) file.
+This is a basic chatbot that will read a API and send a message to a CHAT ID on Telegram.
 
-You can change the [Bot](src/main/java/com/example/Bot.java) class to customize the behavior.
+This was created using spring-boot
+
+To run this use `mvn spring-boot:run`
