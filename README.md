@@ -1,4 +1,4 @@
-# Telegram Chatbot from Star Wars Galaxy of Heroes
+# Telegram Chatbot for Star Wars Galaxy of Heroes
 
 This is a basic chatbot that will read a API and send a message to a CHAT ID on Telegram.
 
